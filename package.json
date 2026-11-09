@@ -1,0 +1,19 @@
+{
+  "name": "particle-portrait",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "author": "Naz Aydemir",
+  "description": "A grayscale photo rebuilt from tens of thousands of ASCII characters, rendered with WebGL2.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0",
+    "vite": "^5.4.0"
+  }
+}
