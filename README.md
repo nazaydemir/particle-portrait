@@ -4,6 +4,8 @@ Drop in any photo and watch it rebuild itself from thousands of text characters,
 
 Pure **TypeScript + WebGL2**, no runtime dependencies (Vite is used only for dev/build).
 
+![alt text](image.png)
+
 ## features
 
 - **Load any image**: drag and drop onto the page, use *Choose image*, or paste with Ctrl+V.
