@@ -82,7 +82,7 @@ Current Chrome, Edge, Firefox and Safari with WebGL2. If WebGL2 is missing, a me
 
 ## photo credit
 
-- Photo: `src/sample.jpg`, taken by Naz Aydemir ([@nazayd3mir](https://github.com/nazayd3mir)). The photograph shows an identifiable person, and that individual has given consent for the publication of the photograph.
+- Photo: `src/sample.jpg`, taken by Naz Aydemir ([@nazaydemir](https://github.com/nazayd3mir)). The photograph shows an identifiable person, and that individual has given consent for the publication of the photograph.
 - License: All rights reserved. The photo is not covered by the MIT license below and may not be copied, redistributed or used elsewhere without written permission.
 
 ## license
